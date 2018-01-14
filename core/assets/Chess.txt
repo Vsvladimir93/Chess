@@ -1,0 +1,89 @@
+384x128Chess.png
+size: 384, 128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rook_white
+    rotate: false
+    xy: 0, 0
+    size: 64, 64
+    orig: 64, 64
+    offset: 0, 0
+    index: -1
+bishop_white
+    rotate: false
+    xy: 64, 0
+    size: 64, 64
+    orig: 64, 64
+    offset: 0, 0
+    index: -1
+queen_white
+    rotate: false
+    xy: 128, 0
+    size: 64, 64
+    orig: 64, 64
+    offset: 0, 0
+    index: -1
+king_white
+    rotate: false
+    xy: 192, 0
+    size: 64, 64
+    orig: 64, 64
+    offset: 0, 0
+    index: -1
+knight_white
+    rotate: false
+    xy: 256, 0
+    size: 64, 64
+    orig: 64, 64
+    offset: 0, 0
+    index: -1
+pawn_white
+    rotate: false
+    xy: 320, 0
+    size: 64, 64
+    orig: 64, 64
+    offset: 0, 0
+    index: -1
+rook_black
+    rotate: false
+    xy: 0, 64
+    size: 64, 64
+    orig: 64, 64
+    offset: 0, 0
+    index: -1
+bishop_black
+    rotate: false
+    xy: 64, 64
+    size: 64, 64
+    orig: 64, 64
+    offset: 0, 0
+    index: -1
+queen_black
+    rotate: false
+    xy: 128, 64
+    size: 64, 64
+    orig: 64, 64
+    offset: 0, 0
+    index: -1
+king_black
+    rotate: false
+    xy: 192, 64
+    size: 64, 64
+    orig: 64, 64
+    offset: 0, 0
+    index: -1
+knight_black
+    rotate: false
+    xy: 256, 64
+    size: 64, 64
+    orig: 64, 64
+    offset: 0, 0
+    index: -1
+pawn_black
+    rotate: false
+    xy: 320, 64
+    size: 64, 64
+    orig: 64, 64
+    offset: 0, 0
+    index: -1
